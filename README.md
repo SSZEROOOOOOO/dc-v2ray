@@ -2,7 +2,7 @@
 
 ### Modify 'id', 'path' in v2ray/config.json
 
-### Modify 'domain name','cert path' 'location' in nginx/conf.d/
+### Modify 'domain name','cert path', 'location' in nginx/conf.d/
 
 docker-compose up -d
 
